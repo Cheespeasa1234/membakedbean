@@ -1,6 +1,3 @@
-# DEPENDENCIES
-from tkinter import *
-
 words = {}
 file1 = open('words.txt', 'r')
 lines = file1.readlines()
@@ -57,13 +54,20 @@ def guess(beginning):
     return f'{beginning}{best_third}{best_fourth}'
 
 
-# GUI
-m = Tk()
-m.geometry('300x400')
-m.title("Membaked")
-button = Button(m, text="Exit", width="25", command=m.destroy)
-button.place(relx = 0.25, rely = 0.5)
-'''
-widgets are added here
-'''
-m.mainloop()
+beginning = input("First two letters: ")
+bestguess = guess(beginning)
+if bestguess == beginning:
+    print("No matches.")
+else:
+    print(f'Best guess: {guess(beginning)}')
+
+
+while input("Again? (y/n) ") != "n":
+    beginning = input("First two letters: ")
+    bestguess = guess(beginning)
+    if bestguess == beginning:
+        print("No matches.")
+    else:
+        print(f'Best guess: {guess(beginning)}')
+
+print("Bye")
