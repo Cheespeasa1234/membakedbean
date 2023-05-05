@@ -1,6 +1,3 @@
-abolish
-abolish: If someone in authority abolishes a law or practice, they formally put an end to it.
-
 abridge
 abridge: If you abridge a book or play, you make it shorter by making cuts to the original.
 
@@ -19,17 +16,17 @@ acme: The acme of something is its highest point of achievement or excellence.
 adage
 adage: An adage is an inherited saying or phrase that has been historically used to express a common experience.
 
+adamant
+adamant: When a person is adamant about an opinion they have, they remain very determined about it and do not yield to anyone's attempt to change it.
+
 advent
 advent: The advent of something, such as a new kind of technology, marks the beginning of its arrival or appearance to the world at large.
 
-aesthetic
-aesthetic: The word aesthetic is used to talk about art, beauty, the study of beauty, and the appreciation of beautiful things.
+adversity
+adversity: If you undergo adversity in life, you struggle with trouble, bad luck, and difficult times.
 
-affiliation
-affiliation: If you have an affiliation with a group or another person, you are officially involved or connected with them.
-
-affirmation
-affirmation: An affirmation is a declaration or confirmation that something is true.
+affliction
+affliction: An affliction is something that causes pain and mental suffering, especially a medical condition.
 
 aftermath
 aftermath: An aftermath describes the consequences or results that follow a particularly destructive event, such as a natural disaster or war.
@@ -37,17 +34,11 @@ aftermath: An aftermath describes the consequences or results that follow a part
 aggravation
 aggravation: When you feel aggravation over something, you are being constantly annoyed or bothered by it, often because it is getting worse over time.
 
-ambidextrous
-ambidextrous: When a person is ambidextrous, they can use their left or right hand with equal skill.
-
 ambiguous
 ambiguous: If you describe something as ambiguous, you mean that it is unclear or confusing because it can be understood in multiple ways.
 
 amicable
 amicable: An amicable person is very friendly and agreeable towards others.
-
-anecdote
-anecdote: An anecdote is a short personal story that someone tells that is interesting or amusing.
 
 anguish
 anguish: When you are suffering from anguish, you feel extreme pain or severe sorrow.
@@ -58,20 +49,8 @@ annihilate: When something is annihilated, it is completely destroyed or wiped o
 anonymous
 anonymous: When someone wishes to remain anonymous, they do not reveal their name.
 
-antiquated
-antiquated: Something antiquated is old-fashioned and not suitable for modern needs or conditions.
-
-You checked "I Know This" on Nov 20, 2022 EST. Uncheck to undo.
-
-IKT
-appraisal
-appraisal: When you give an appraisal, you evaluate a person or assess the value of something.
-
-You checked "I Know This" on Oct 23, 2022 EDT. Uncheck to undo.
-
-IKT
-apprehensive
-apprehensive: When you are apprehensive about a future event, you are nervous or fearful about it.
+apprentice
+apprentice: An apprentice is someone who trains under a master in order to learn a trade or other skill.
 
 aptitude
 aptitude: Someone's aptitude at a skill is their natural ability to perform it well; this word also refers to someone's ability to learn something new or become better at a skill.
@@ -79,32 +58,17 @@ aptitude: Someone's aptitude at a skill is their natural ability to perform it w
 arbiter
 arbiter: An arbiter acts as a go-between who can settle an argument or provide advice in a dispute.
 
-arbitrary
-arbitrary: If you describe a decision, rule, or plan as arbitrary, you think that it was decided without any thought, standard, or system to guide it; therefore, it can seem unfair.
-
-arid
-arid: An arid landscape is dry and lacking in sufficient rainfall to support much life.
-
 aspiration
 aspiration: An aspiration is a personal goal or ambition that you want to achieve.
 
 assent
 assent: When you give your assent, you agree with someone or accept what they have said.
 
-assertive
-assertive: When you act in an assertive fashion, you know what you want and strongly persist in getting it.
-
 audacious
 audacious: An audacious person acts with great daring and sometimes reckless bravery—despite risks and warnings from other people—in order to achieve something.
 
-augment
-augment: To augment something is to increase its value or effectiveness by adding something to it.
-
 auxiliary
 auxiliary: An auxiliary device is one that acts in support of a main one, such as a backup generator that replaces power in case the main source of that power goes down.
-
-avert
-avert: When you avert your eyes, you turn them away; when you avert a disaster, you prevent it from happening—thereby also turning it away.
 
 belligerent
 belligerent: A belligerent person or country is aggressive, very unfriendly, and likely to start a fight.
@@ -118,29 +82,14 @@ benign: If you describe someone as benign, they are kind, gentle, and harmless.
 bestow
 bestow: When something is bestowed upon you—usually something valuable—you are given or presented it.
 
-boisterous
-boisterous: Someone who is boisterous is noisy, excitable, and full of boundless energy; therefore, they show a lack of disciplined restraint at times.
+bewilder
+bewilder: If something bewilders you, you are very confused or puzzled by it.
 
 breach
 breach: A breach in trust is a failure to live up to a promise.
 
-calligraphy
-calligraphy: Calligraphy is the art of beautiful handwriting using special pens or brushes.
-
-captivate
-captivate: When you are captivated by someone or something, you are enchanted, fascinated, or delighted by them or it.
-
-You checked "I Know This" on Oct 23, 2022 EDT. Uncheck to undo.
-
-IKT
-caricature
-caricature: A caricature of someone is an exaggerated drawing or description that is designed to make that person look silly.
-
-You checked "I Know This" on Nov 19, 2022 EST. Uncheck to undo.
-
-IKT
-cavernous
-cavernous: A cavernous space is very large and empty; it is both hollow and huge.
+brevity
+brevity: Brevity is communicating by using just a few words or by taking very little time to do so.
 
 centenary
 centenary: A centenary period has lasted one hundred years.
@@ -150,9 +99,6 @@ chaotic: A chaotic state of affairs is in a state of confusion and complete diso
 
 charisma
 charisma: A person with a great deal of charisma is able to highly influence others because they are easily able to inspire loyalty and create enthusiasm through personal charm.
-
-choreography
-choreography: The choreography of a work of dance is either the art of arranging the steps or the actual dance composition itself.
 
 chronic
 chronic: A chronic illness or pain is serious and lasts for a long time; a chronic problem is always happening or returning and is very difficult to solve.
@@ -166,11 +112,17 @@ chronological: A chronological history arranges events in the order that they ha
 clientele
 clientele: The clientele of a business are those clients or frequent customers who support that business.
 
+coalition
+coalition: A coalition is a temporary union of different political or social groups that agrees to work together to achieve a shared aim.
+
 coerce
 coerce: You coerce people when you force them to do something that they don't want to do.
 
-collaborate
-collaborate: When people collaborate, they work together, usually to solve some problem or issue.
+cognitive
+cognitive: Cognitive describes those things related to judgment, memory, and other mental processes of knowing.
+
+collateral
+collateral: Collateral is a security or guarantee, usually represented by personal property of equal value, that a borrower must put up when they take out a loan.
 
 colossal
 colossal: Something colossal is extremely big, gigantic, or huge.
@@ -178,17 +130,14 @@ colossal: Something colossal is extremely big, gigantic, or huge.
 commandeer
 commandeer: When something is commandeered, it is taken or seized, usually by force.
 
-communal
-communal: Communal property includes those goods or items that are shared in common by a community.
-
-competent
-competent: If someone is competent in a job, they are able and skilled enough to do it well.
+commemorate
+commemorate: When you commemorate a person, you honor them or cause them to be remembered in some way.
 
 concede
 concede: When you concede to something, you unwillingly admit it is true or give in to it.
 
-concentric
-concentric: Concentric circles, gradually increasing in size, spread out from a common central point.
+concurrent
+concurrent: Concurrent events happen at the same time.
 
 condemnation
 condemnation: A condemnation of someone is strong disapproval for what they have done; it can result in a conviction of wrongdoing in court.
@@ -196,62 +145,17 @@ condemnation: A condemnation of someone is strong disapproval for what they have
 condole
 condole: If you condole with someone, you express sympathy or sorrow, usually on the death of someone dear.
 
-conducive
-conducive: A conducive agent is something that is favorable or helpful in getting something to happen.
-
-confidant
-confidant: A confidant is a close and trusted friend to whom you can tell secret matters of importance and remain assured that they will be kept safe.
-
-You checked "I Know This" on Dec 31, 2022 EST. Uncheck to undo.
-
-IKT
-conjecture
-conjecture: A conjecture is a theory or guess that is based on information that is not certain or complete.
-
-conjure
-conjure: When you try to conjure up images of the past, you call upon or summon them in your mind by imagining them.
-
-You checked "I Know This" on Oct 30, 2022 EDT. Uncheck to undo.
-
-IKT
-conscientious
-conscientious: When someone is conscientious in performing a task, they do it in a thorough and careful fashion to make sure that it is completely done.
-
-consensus
-consensus: When a group of people reaches a consensus, it has reached a general agreement about something.
+conglomerate
+conglomerate: A conglomerate is a large business or organization that consists of many different companies involved in numerous areas of expertise.
 
 constrain
 constrain: When you are constrained, you are forced to do something or are kept from doing it.
 
-contemplate
-contemplate: When you contemplate something, you either think about it deeply or gaze at it intently.
-
-contemporary
-contemporary: A contemporary object exists at the same time as something else or exists at the current time.
-
-contemptible
-contemptible: A contemptible act is shameful, disgraceful, and worthy of scorn.
-
 contentious
 contentious: When someone is contentious, they are argumentative and likely to provoke a fight.
 
-contrary
-contrary: If you act in a contrary way, you oppose or go against an existing way of doing or thinking about something.
-
 convene
 convene: People convene when they gather together or are called together by someone for a meeting.
-
-conventional
-conventional: A conventional way of thinking or behaving is the one most commonly accepted by social groups.
-
-copious
-copious: A copious amount of something is a very large amount of it.
-
-You checked "I Know This" on Feb 2, 2023 EST. Uncheck to undo.
-
-IKT
-cordial
-cordial: A cordial greeting is warm, friendly, and polite.
 
 cornucopia
 cornucopia: A cornucopia is a large quantity and variety of something good and nourishing.
@@ -259,32 +163,8 @@ cornucopia: A cornucopia is a large quantity and variety of something good and n
 cosmopolitan
 cosmopolitan: A cosmopolitan area represents large cultural diversity and people from around the globe; a cosmopolitan person is broad-minded and wise in the ways of the world.
 
-credible
-credible: If you act in a credible fashion, you are easy to believe or trust.
-
-cynical
-cynical: A cynical person thinks that people in general are most often motivated by selfish concerns; therefore, they doubt, mistrust, and question what people do.
-
-deficit
-deficit: A deficit occurs when a person or government spends more money than has been received.
-
-definitive
-definitive: A definitive opinion on an issue cannot be challenged; therefore, it is the final word or the most authoritative pronouncement on that issue.
-
-You checked "I Know This" on Feb 11, 2023 EST. Uncheck to undo.
-
-IKT
-demarcation
-demarcation: Demarcation is the process of setting boundaries or limits; it is also a line that provides a distinct separation between two things.
-
-demographic
-demographic: A demographic study describes the characteristics of part of a population that is usually used for purposes of marketing.
-
-You checked "I Know This" on Oct 16, 2022 EDT. Uncheck to undo.
-
-IKT
-denounce
-denounce: If you denounce people or actions, you criticize them severely in public because you feel strongly that they are wrong or evil.
+decipher
+decipher: When you decipher a message or piece of writing, you work out what it says, even though it is very difficult to read or understand.
 
 deprivation
 deprivation: Deprivation is a state during which people lack something, especially adequate food and shelter; deprivation can also describe something being taken away from someone.
@@ -295,14 +175,8 @@ derivative: A derivative is something borrowed from something else, such as an E
 designation
 designation: A designation is a name, label, or mark that something is given to identify it.
 
-desolate
-desolate: A desolate area is unused, empty of life, deserted, and lonely.
-
-despicable
-despicable: If you say a person's actions are despicable, you think they are extremely unpleasant or nasty.
-
-deterrent
-deterrent: A deterrent keeps someone from doing something against you.
+deviate
+deviate: When someone's behavior is deviating, they do things differently by departing or straying from their usual way of acting.
 
 dilemma
 dilemma: A dilemma is a difficult situation or problem that consists of a choice between two equally disagreeable or unfavorable alternatives.
@@ -310,23 +184,14 @@ dilemma: A dilemma is a difficult situation or problem that consists of a choice
 dire
 dire: If you are in dire need of help, you are in urgent need of it because the situation you are in is very bad or terrible.
 
-discern
-discern: When you discern something, you notice, detect, or understand it, often after thinking about it carefully or studying it for some time.
-
-discrepancy
-discrepancy: When there is a discrepancy between two sets of data, there is a difference or disagreement among them—despite the fact that they should be the same.
-
-disdain
-disdain: You show disdain towards another person when you despise what they do, or you regard them as unworthy of your notice and attention.
-
-You checked "I Know This" on Dec 12, 2022 EST. Uncheck to undo.
-
-IKT
-disentangle
-disentangle: When you disentangle a knot or a problem, you untie the knot or get yourself out of the problem.
+disarray
+disarray: When you are in a state of disarray, you are disorganized, disordered, and in a state of confusion.
 
 disillusion
 disillusion: When you disillusion someone, you show that a belief they hold dear is untrue—thereby disheartening and disappointing them.
+
+dismantle
+dismantle: When you dismantle something, you take it apart or destroy it piece by piece.
 
 disposition
 disposition: Your disposition is your personality, the way you tend to react to the various events in your life, and the mood that you generally have.
@@ -334,14 +199,17 @@ disposition: Your disposition is your personality, the way you tend to react to 
 dissident
 dissident: A dissident is someone who disagrees publicly with a government, especially in a country where this is not allowed.
 
-distortion
-distortion: When something is subjected to distortion, it is twisted out of shape in some way.
-
 distraught
 distraught: If you are distraught about a situation, you are very upset or worried about it.
 
 divergent
 divergent: Divergent opinions differ from each other; divergent paths move apart from one another.
+
+diversion
+diversion: When you create a diversion, you cause someone to turn aside momentarily from what they are doing by distracting them.
+
+dominion
+dominion: When one country has dominion over another, it rules or controls it absolutely.
 
 dormant
 dormant: When something is dormant, it is in a state of sleep or temporarily not active.
@@ -349,8 +217,8 @@ dormant: When something is dormant, it is in a state of sleep or temporarily not
 dreary
 dreary: Weather that is dreary tends to be depressing and gloomy; a situation or person that is dreary tends to be boring or uninteresting.
 
-dubious
-dubious: If someone makes a dubious claim, there is a great deal of disbelief or doubt about it.
+eccentric
+eccentric: If someone is eccentric, they behave in a strange and unusual way that is different from most people.
 
 eclipse
 eclipse: When one person eclipses another's achievements, they surpass or outshine that person in that endeavor.
@@ -358,38 +226,32 @@ eclipse: When one person eclipses another's achievements, they surpass or outshi
 ecstatic
 ecstatic: When you are ecstatic about something, you are overjoyed or extremely happy about it.
 
-efficacy
-efficacy: Efficacy is the ability or power to produce an expected effect or result.
+egotistical
+egotistical: An egotistical person thinks about or is concerned with no one else other than themselves.
 
-You checked "I Know This" on Feb 22, 2023 EST. Uncheck to undo.
-
-IKT
 eloquent
 eloquent: When you speak in an eloquent fashion, you speak beautifully in an expressive way that is convincing to an audience.
 
-emphatic
-emphatic: When you make an emphatic declaration, you are insistent and absolute about it.
+embark
+embark: When you embark upon a journey, you begin it, such as by boarding a plane or starting to learn something new.
 
-encompass
-encompass: When something encompasses something else, it includes all aspects of it or completely surrounds it.
-
-enthrall
-enthrall: If something enthralls you, it makes you so interested and excited that you give it all your attention.
+eradicate
+eradicate: When you eradicate something, you tear it up by the roots or remove it completely.
 
 errant
 errant: Errant things or people behave in a way that is unacceptable or wrong, such as a missile that travels in the wrong direction or a student who does not follow classroom rules.
 
-excise
-excise: When you excise something, you remove it by cutting it out.
+erratic
+erratic: Erratic behavior is irregular, unpredictable, and unusual.
+
+exclusion
+exclusion: Exclusion is the act of shutting someone out of a group or an activity.
 
 excruciating
 excruciating: An injury that is excruciating is extremely painful.
 
 excursion
 excursion: An excursion is a short trip or outing from which you return home fairly quickly.
-
-exemplify
-exemplify: One thing that exemplifies another serves as an example of it, illustrates it, or demonstrates it.
 
 expansive
 expansive: Something expansive has a wide scope or is large in area.
@@ -418,32 +280,14 @@ figurative: If you use words in a figurative way, they have an abstract or symbo
 flamboyant
 flamboyant: If someone or something is flamboyant, the former is trying to show off in a way that deliberately attracts attention, and the latter is brightly colored and highly decorated.
 
-fluctuate
-fluctuate: Things that fluctuate vary or change often, rising or falling seemingly at random.
-
-formative
-formative: Something formative shapes or influences the growth of something else.
-
-formulate
-formulate: When you formulate a plan of action, you carefully work it out or design it in great detail ahead of time.
-
-fortification
-fortification: A fortification is a structure or building that is used in defense against an invading army.
-
-fossilized
-fossilized: A soft material that becomes hardened into stone over time has become fossilized.
-
 frivolous
 frivolous: Something frivolous is not worth taking seriously or considering because it is silly or childish.
-
-fruitless
-fruitless: A fruitless effort at doing something does not bring about a successful result.
 
 futile
 futile: A futile attempt at doing something is hopeless and pointless because it simply cannot be accomplished.
 
-genre
-genre: A genre is a category, type, or class of artistic work.
+generic
+generic: A generic description or attribute is not specific to any one thing but applies to all members of an entire class or group.
 
 genteel
 genteel: A genteel person is well-mannered, has good taste, and is very polite in social situations; a genteel person is often from an upper-class background.
@@ -454,24 +298,9 @@ gingerly: To handle an object gingerly is to be careful and cautious with it.
 gradient
 gradient: A gradient is an upward or downward slanting slope, the steepness of that slope, or the rate of change of a measured quantity over a given distance.
 
-granule
-granule: A granule is a small particle or tiny grain of something.
+grandiose
+grandiose: When you do something in a grandiose way, it is very showy, impressive, and magnificent.
 
-gratification
-gratification: When you have a feeling of gratification, you experience satisfaction or pleasure about a job well done.
-
-gravity
-gravity: The gravity of a situation or event is its seriousness or importance.
-
-You checked "I Know This" on Feb 5, 2023 EST. Uncheck to undo.
-
-IKT
-grotesque
-grotesque: Something grotesque is so distorted or misshapen that it is disturbing, bizarre, gross, or very ugly.
-
-You checked "I Know This" on Dec 12, 2022 EST. Uncheck to undo.
-
-IKT
 gullible
 gullible: A gullible person is easy to trick because they are too trusting of other people.
 
@@ -483,9 +312,6 @@ havoc: When there is havoc, there is great disorder, widespread destruction, and
 
 hindrance
 hindrance: A hindrance is an obstacle or obstruction that gets in your way and prevents you from doing something.
-
-hypocritical
-hypocritical: Someone who is hypocritical pretends to be a person they are not.
 
 hypothetical
 hypothetical: Something that is hypothetical is based on possible situations or events rather than actual ones.
@@ -502,17 +328,8 @@ impending: An impending event is approaching fast or is about to occur; this wor
 impenetrable
 impenetrable: An impenetrable barrier cannot be gotten through by any means; this word can refer to parts of a building such as walls and doors—or to a problem of some kind that cannot be solved.
 
-imperative
-imperative: When it is imperative that something be done, it is absolutely necessary or very important that it be accomplished.
-
 implicit
 implicit: When something is implicit, it is understood without having to say it.
-
-imposition
-imposition: An imposition is giving someone an additional duty or extra work that is not welcomed by that person.
-
-impoverished
-impoverished: An impoverished person or nation is very poor and stricken by poverty.
 
 improvise
 improvise: When someone improvises, they make something up at once because an unexpected situation has arisen.
@@ -523,20 +340,11 @@ impulsive: Someone who is impulsive tends to do things without thinking about th
 inanimate
 inanimate: Something inanimate is dead, motionless, or not living; therefore, it does not display the same traits as an active and alive organism.
 
-inaugural
-inaugural: An inaugural event celebrates the beginning of something, such as the term of a president or the beginning of a series of meetings.
-
-incarcerate
-incarcerate: If you incarcerate someone, you put them in prison or jail.
-
 incompatible
 incompatible: If two people are incompatible, they do not get along, tend to disagree, and are unable to cooperate with one another.
 
 inconceivable
 inconceivable: Something that is inconceivable cannot be imagined or thought of; that is, it is beyond reason or unbelievable.
-
-inconclusive
-inconclusive: If the results of something are inconclusive, they are uncertain or provide no final answers.
 
 inconsequential
 inconsequential: Inconsequential matters are unimportant or are of little to no significance.
@@ -553,38 +361,29 @@ induce: To induce a state is to bring it about; to induce someone to do somethin
 ineffectual
 ineffectual: Someone who is ineffectual at a task is useless or ineffective when attempting to do it.
 
-inference
-inference: An inference is a conclusion that is reached using available data.
-
 infiltrate
 infiltrate: When a spy infiltrates enemy lines, they creep in or penetrate them so as to gather information.
+
+ingenuity
+ingenuity: Ingenuity in solving a problem uses creativity, intelligence, and cleverness.
 
 ingrained
 ingrained: Something that has been ingrained in your mind has been fixed or rooted there permanently.
 
+inherent
+inherent: An inherent characteristic is one that exists in a person at birth or in a thing naturally.
+
 inhibit
 inhibit: Something that inhibits you from doing something restricts or keeps you from doing it.
-
-initiate
-initiate: To initiate something is to begin or start it.
 
 innovation
 innovation: An innovation is something new that is created or is a novel process for doing something.
 
-instigate
-instigate: When you instigate something, you start it or stir it up, usually for the purpose of causing trouble of some kind.
+integral
+integral: Something that is integral to something else is an essential or necessary part of it.
 
-intermittent
-intermittent: Something that happens on an intermittent basis happens in irregular intervals, stopping and starting at unpredictable times.
-
-You checked "I Know This" on Dec 10, 2022 EST. Uncheck to undo.
-
-IKT
 intertwine
 intertwine: When you intertwine two things, you twist them together and thereby interconnect them.
-
-intricate
-intricate: An intricate design or problem can be both complex and filled with elaborate detail.
 
 introvert
 introvert: An introvert is someone who primarily prefers being by themselves instead of hanging out with others socially; nevertheless, they still enjoy spending time with friends.
@@ -592,11 +391,662 @@ introvert: An introvert is someone who primarily prefers being by themselves ins
 irrelevant
 irrelevant: Irrelevant information is unrelated or unconnected to the situation at hand.
 
-jeopardy
-jeopardy: When you are in jeopardy, you are in danger or trouble of some kind.
+jargon
+jargon: Jargon is language or terminology used by a specific group that might not be understandable to those people who are not of the group.
 
 judicious
 judicious: A judicious person shows good or sound judgment because they are wise and careful in making decisions.
+
+lavish
+lavish: Lavish praise, giving, or a meal is rich, plentiful, or very generous; it can sometimes border on being too much.
+
+luminous
+luminous: When something is luminous, it is bright and glowing.
+
+lustrous
+lustrous: Something that is lustrous shines in a soft and gentle way by reflecting light.
+
+luxuriant
+luxuriant: Something luxuriant, such as plants or hair, is growing well and is very healthy.
+
+malignant
+malignant: A malignant thing or person, such as a tumor or criminal, is deadly or does great harm.
+
+metaphor
+metaphor: A metaphor is a word or phrase that means one thing but is used to describe something else in order to highlight similar qualities; for example, if someone is very brave, you might say that they have the heart of a lion.
+
+moderation
+moderation: When you behave with moderation, you live in a balanced and measured way; you do nothing to excess.
+
+nominal
+nominal: Nominal can refer to someone who is in charge in name only, or it can refer to a very small amount of something; both are related by their relative insignificance.
+
+noxious
+noxious: Something that is noxious is harmful, extremely unpleasant, and often poisonous.
+
+objective
+objective: If someone is objective, they base their opinions on facts rather than personal feelings or beliefs.
+
+obliterate
+obliterate: When you obliterate something, you destroy it to such an extent that there is nothing or very little of it left.
+
+ominous
+ominous: An ominous sign predicts or shows that something bad will happen in the near future.
+
+ornate
+ornate: An ornate object is heavily or excessively decorated with complicated shapes and patterns.
+
+paramount
+paramount: Something that is of paramount importance or significance is chief or supreme in those things.
+
+paranoia
+paranoia: If you are afflicted with paranoia, you have extreme distrust of others and feel like they are always out to get you.
+
+pare
+pare: To pare something down is to reduce or lessen it.
+
+patriarch
+patriarch: A patriarch is a male leader of a family or tribe; a patriarch can also be a man who is the founder of a group or organization.
+
+perilous
+perilous: A perilous situation is highly dangerous or extremely risky.
+
+periphery
+periphery: The periphery of a place is its boundary or outer edge.
+
+pervasive
+pervasive: If something is pervasive, it appears to be everywhere.
+
+pinnacle
+pinnacle: If someone reaches a pinnacle of something—such as a career or mountain—they have arrived at the highest point of it.
+
+placid
+placid: A placid scene or person is calm, quiet, and undisturbed.
+
+porous
+porous: A porous substance has many holes through which liquid can be absorbed, such as a sponge.
+
+preamble
+preamble: A preamble is an introduction to a formal document that explains the document's purpose.
+
+preconception
+preconception: A preconception is a conceived notion that you already have, usually in the form of a bias or prejudice of some kind.
+
+predominant
+predominant: Something predominant is the most important or the most common thing in a group.
+
+primeval
+primeval: Something primeval is ancient or belonging to the original development of something.
+
+procrastinate
+procrastinate: When you procrastinate, you put off or delay doing something—usually because it is something unpleasant that you'd rather not do.
+
+procure
+procure: When you procure something, you obtain or get it in some fashion.
+
+prophetic
+prophetic: Something or someone that is prophetic has the quality or ability to predict the future.
+
+propriety
+propriety: Propriety is behaving in a socially acceptable and appropriate way.
+
+protocol
+protocol: Protocol is the rules of conduct or proper behavior that a social situation demands.
+
+proximity
+proximity: Proximity is how close or near one thing is to another.
+
+pugnacious
+pugnacious: To act in a pugnacious manner is to act in a combative and aggressive way.
+
+punctuate
+punctuate: If an activity is punctuated by something, it is interrupted or emphasized by it at intervals.
+
+purge
+purge: To purge something is to get rid of or remove it.
+
+quarantine
+quarantine: When people or animals are quarantined, they are put in isolation so that they will not spread disease.
+
+ransack
+ransack: To ransack a place is to thoroughly loot or rob items from it; it can also mean to look through something thoroughly by examining every bit of it.
+
+ratification
+ratification: The ratification of a measure or agreement is its official approval or confirmation by all involved.
+
+ravage
+ravage: When you ravage something, you completely destroy, wreck, or damage it.
+
+ravenous
+ravenous: If you are ravenous, you are extremely hungry.
+
+referendum
+referendum: A referendum is a suggested measure or other concern that is brought before the people for a vote.
+
+refurbish
+refurbish: When you refurbish something, you repair it to improve its appearance or ability to function.
+
+rehabilitate
+rehabilitate: When someone is rehabilitated, they are restored to a more normal way of life, such as returning to good health or a crime-free life.
+
+relinquish
+relinquish: When you relinquish something, you give it up or let it go.
+
+remedial
+remedial: A remedial action is intended to improve or correct something that is lacking in some way, such as one's education or health.
+
+renovate
+renovate: When you renovate something, such as a home or other building, you modernize or make it like new again.
+
+repercussion
+repercussion: A repercussion of an act or event is the result or effect of it.
+
+replenish
+replenish: When you replenish something, you refill or restock it.
+
+repulsive
+repulsive: Something that is repulsive is offensive, highly unpleasant, or just plain disgusting.
+
+resolve
+resolve: When you resolve a problem, you solve it or come to a decision about it.
+
+retort
+retort: When you give a retort to what someone has said, you reply in a quick and witty fashion.
+
+rhetoric
+rhetoric: Rhetoric is the skill or art of using language to persuade or influence people, especially language that sounds impressive but may not be sincere or honest.
+
+rubble
+rubble: Rubble is the debris, remains, or wreckage of something that has been ruined, such as a building or other structure.
+
+sabotage
+sabotage: Sabotage is the deliberate or intentional destruction or damage of property or equipment in order to defeat or slow down a cause or other endeavor you don't agree with.
+
+saga
+saga: A saga is a long series of events that is filled with adventure and heroic deeds.
+
+sanction
+sanction: A sanction is an official approval to do something; it may be a showing of support or acceptance for something, or it may officially support a punishment or restriction in response to an unacceptable action.
+
+sanctity
+sanctity: The sanctity of something is its holiness or sacred quality.
+
+seasoned
+seasoned: A seasoned professional has a great deal of experience in what they do.
+
+sedentary
+sedentary: Someone who has a sedentary habit, job, or lifestyle spends a lot of time sitting down without moving or exercising often.
+
+sovereign
+sovereign: A sovereign nation rules itself, independent of all other nations.
+
+spatial
+spatial: The spatial aspect of a room or other area is the amount of space it has.
+
+stagnant
+stagnant: Something that is stagnant is not moving; therefore, it is not growing, progressing, or acting as it should.
+
+strata
+strata: Strata are Earth's layers of rock or regions of the atmosphere; they can also be the different social, cultural, and economic levels of a society.
+
+strife
+strife: Strife is struggle or conflict that sometimes turns violent.
+
+stringent
+stringent: Stringent measures or rules are strict, severe, and controlled in a very tight fashion.
+
+stupendous
+stupendous: A stupendous event or accomplishment is amazing, wonderful, or spectacular.
+
+subtle
+subtle: A subtle point is so clever or small that it is hard to notice or understand; it can also be very wise or deep in meaning.
+
+succumb
+succumb: When you succumb to something, you give in to, yield to, or die from it.
+
+superficial
+superficial: A person or subject that is superficial is shallow, without depth, obvious, and concerned only with surface matters.
+
+susceptible
+susceptible: If you are susceptible to something, such as a disease or emotion, you are likely or inclined to be affected by it.
+
+synthesis
+synthesis: A synthesis is the combination or blend of two or more things to form a new whole.
+
+tangible
+tangible: Something that is tangible is able to be touched and thus is considered real.
+
+temperance
+temperance: If you show temperance, you limit yourself so that you don’t do too much of something; you act in a controlled and well-balanced way.
+
+topical
+topical: The adjective topical describes something that is related to a topic or is of current interest; this word also refers to a treatment that is applied to the surface of the body.
+
+treatise
+treatise: A treatise is a formal written work that considers and examines a particular subject in a very systematic and extensive way.
+
+unanimous
+unanimous: All people involved in a unanimous decision agree or are united in their opinion about something.
+
+unprecedented
+unprecedented: Something unprecedented has never occurred; therefore, it is unusual, original, or new.
+
+unscathed
+unscathed: To come out of something unscathed is to come out of it uninjured.
+
+unsurpassed
+unsurpassed: If you are unsurpassed in what you do, you are the best—period.
+
+unwarranted
+unwarranted: An unwarranted decision cannot be justified because there is no evidence to back it up; therefore, it is needless and uncalled-for.
+
+unwieldy
+unwieldy: Something that is unwieldy is hard or awkward to handle because of the way that it is shaped.
+
+vainglorious
+vainglorious: If you are vainglorious, you are very proud of yourself and let other people know about it.
+
+vengeful
+vengeful: If you are vengeful, you want to get back at someone for something that they did to you because you are unwilling to forgive them.
+
+veracity
+veracity: The veracity of something is its truthfulness.
+
+verbatim
+verbatim: If you repeat something verbatim, you use the same words that were spoken or written.
+
+veritable
+veritable: Something that is veritable is authentic, actual, genuine, or without doubt.
+
+viable
+viable: A viable project is practical or can be accomplished; therefore, it is worth doing.
+
+vibrant
+vibrant: A vibrant person is lively and full of energy in a way that is exciting and attractive.
+
+vivacious
+vivacious: If someone is described as vivacious, they are lively and have a happy, lighthearted manner.
+
+vogue
+vogue: If something, such as clothing, is in vogue, it is currently in fashion or is one of the hottest new trends; hence, it is very popular.
+
+voracious
+voracious: A voracious person has a strong desire to want a lot of something, especially food.
+
+wary
+wary: If you are being wary about a situation, you are being careful, cautious, or on your guard because you are concerned about something.
+
+wholesome
+wholesome: The adjective wholesome can refer to something that is good for the health of your body and also for your moral health.
+
+adjunct
+adjunct: An adjunct is something that is added to or joined to something else that is larger or more important.
+
+affinity
+affinity: When you have an affinity for something, you have a natural liking for or connection to it.
+
+bequeath
+bequeath: When you bequeath something, you hand it down to someone in a will or pass it on from one generation to the next.
+
+bereaved
+bereaved: A bereaved person is someone whose close friend or relative has recently died.
+
+buttress
+buttress: When you buttress an argument, idea, or even a building, you make it stronger by providing support.
+
+cadence
+cadence: A cadence is a repeated pattern of movement or sound, such as the way someone's voice rises and falls when reading something out loud.
+
+confound
+confound: If something confounds you, it makes you feel surprised and confused, often because it does not meet your predefined expectations.
+
+congenial
+congenial: A congenial person, place, or environment is pleasant, friendly, and enjoyable.
+
+contingent
+contingent: If something is contingent upon something else, the first thing depends on the second in order to happen or exist.
+
+contrived
+contrived: When something is contrived, it is obviously thought about or planned beforehand, although it tries to be passed off as not being so.
+
+crescendo
+crescendo: If something, such as a sound, is undergoing a crescendo, it is getting louder and louder or increasing in intensity and is about to reach its peak strength.
+
+disseminate
+disseminate: To disseminate something, such as knowledge or information, is to distribute it so that it reaches a lot of people.
+
+dissuade
+dissuade: When you dissuade someone, you try to discourage or prevent them from doing something.
+
+edifice
+edifice: An edifice is a large or impressive building, such as a church, palace, temple, or fortress.
+
+elicit
+elicit: When you elicit a response from someone, you draw it forth or cause it to happen by something you say or do.
+
+embankment
+embankment: An embankment is a built-up bank or ridge made of earth or stone that supports a road or holds back water.
+
+epitaph
+epitaph: An epitaph is an inscription upon a tomb that tells of a person's accomplishments during life.
+
+explicate
+explicate: To explicate an idea or plan is to make it clear by explaining it.
+
+exposition
+exposition: An exposition is a detailed explanation or setting forth of an idea, theory, or problem, either in a written or spoken format.
+
+fissure
+fissure: A fissure is a narrow and long crack or opening, usually in a rock face.
+
+flagrant
+flagrant: An action that is flagrant shows that someone does not care if they obviously break the rules or highly offend people.
+
+impervious
+impervious: If you are impervious to things, such as someone's actions or words, you are not affected by them or do not notice them.
+
+impetus
+impetus: An impetus is a force that influences something to happen or develop more quickly.
+
+lucid
+lucid: If someone is lucid, they are able to understand things and think clearly; this adjective also describes writing or speech that is crystal clear and easy to understand.
+
+medley
+medley: A medley is a collection of various things, such as different tunes in a song or different types of food in a meal.
+
+misgiving
+misgiving: A misgiving is a doubt or uncertainty that you have about something, usually something that you are about to do.
+
+poignant
+poignant: A poignant experience affects your feelings greatly in a painful or deeply emotional way, often causing sadness or pity.
+
+preclude
+preclude: When you preclude something from happening, you prevent it from doing so.
+
+predispose
+predispose: If someone is predisposed to something, they are made favorable or inclined to it in advance, or they are made susceptible to something, such as a disease.
+
+prolific
+prolific: Something or someone that is prolific is highly fruitful and so produces a lot of something.
+
+rebuke
+rebuke: When you rebuke someone, you harshly scold or criticize them for something they've done.
+
+scourge
+scourge: A scourge was originally a whip used for torture and now refers to something that torments or causes serious trouble or devastation.
+
+suave
+suave: If you are suave, you are charming and very polite; you are also agreeable, perhaps not always sincerely, to all you meet.
+
+subsistence
+subsistence: Subsistence is the means someone has to support their existence, usually referring to food and shelter.
+
+tedium
+tedium: If you are suffering from tedium, you are bored.
+
+unlettered
+unlettered: If someone is unlettered, they are illiterate, unable to read and write.
+
+utilitarian
+utilitarian: A utilitarian object is useful, serviceable, and practical—rather than fancy or unnecessary.
+
+vehement
+vehement: When you have a vehement feeling about something, you feel very strongly or intensely about it.
+
+abolish
+abolish: If someone in authority abolishes a law or practice, they formally put an end to it.
+
+accommodate
+accommodate: When you accommodate the needs of another, you adapt or adjust to those needs to make things more convenient for that person.
+
+adversary
+adversary: An adversary is a person who goes against you in some way, such as an opponent in a contest or a personal enemy in a conflict.
+
+aesthetic
+aesthetic: The word aesthetic is used to talk about art, beauty, the study of beauty, and the appreciation of beautiful things.
+
+affiliation
+affiliation: If you have an affiliation with a group or another person, you are officially involved or connected with them.
+
+affirmation
+affirmation: An affirmation is a declaration or confirmation that something is true.
+
+ambidextrous
+ambidextrous: When a person is ambidextrous, they can use their left or right hand with equal skill.
+
+anecdote
+anecdote: An anecdote is a short personal story that someone tells that is interesting or amusing.
+
+animated
+animated: When a person is animated, they are energetic, lively, and filled with excited activity.
+
+apprehensive
+apprehensive: When you are apprehensive about a future event, you are nervous or fearful about it.
+
+arbitrary
+arbitrary: If you describe a decision, rule, or plan as arbitrary, you think that it was decided without any thought, standard, or system to guide it; therefore, it can seem unfair.
+
+arid
+arid: An arid landscape is dry and lacking in sufficient rainfall to support much life.
+
+artifact
+artifact: An artifact is a weapon, tool, or piece of art created by human beings that is historically and culturally interesting or valuable.
+
+assertive
+assertive: When you act in an assertive fashion, you know what you want and strongly persist in getting it.
+
+augment
+augment: To augment something is to increase its value or effectiveness by adding something to it.
+
+avert
+avert: When you avert your eyes, you turn them away; when you avert a disaster, you prevent it from happening—thereby also turning it away.
+
+boisterous
+boisterous: Someone who is boisterous is noisy, excitable, and full of boundless energy; therefore, they show a lack of disciplined restraint at times.
+
+calligraphy
+calligraphy: Calligraphy is the art of beautiful handwriting using special pens or brushes.
+
+cavernous
+cavernous: A cavernous space is very large and empty; it is both hollow and huge.
+
+choreography
+choreography: The choreography of a work of dance is either the art of arranging the steps or the actual dance composition itself.
+
+circumstantial
+circumstantial: That which is circumstantial is not an essential or primary part of something; rather, it is merely incidental and perhaps insignificant to the situation at hand.
+
+collaborate
+collaborate: When people collaborate, they work together, usually to solve some problem or issue.
+
+communal
+communal: Communal property includes those goods or items that are shared in common by a community.
+
+competent
+competent: If someone is competent in a job, they are able and skilled enough to do it well.
+
+concentric
+concentric: Concentric circles, gradually increasing in size, spread out from a common central point.
+
+concise
+concise: A concise statement is short, clear, and gets right to the point.
+
+conducive
+conducive: A conducive agent is something that is favorable or helpful in getting something to happen.
+
+conjecture
+conjecture: A conjecture is a theory or guess that is based on information that is not certain or complete.
+
+conscientious
+conscientious: When someone is conscientious in performing a task, they do it in a thorough and careful fashion to make sure that it is completely done.
+
+consensus
+consensus: When a group of people reaches a consensus, it has reached a general agreement about something.
+
+contemplate
+contemplate: When you contemplate something, you either think about it deeply or gaze at it intently.
+
+contemporary
+contemporary: A contemporary object exists at the same time as something else or exists at the current time.
+
+contemptible
+contemptible: A contemptible act is shameful, disgraceful, and worthy of scorn.
+
+contrary
+contrary: If you act in a contrary way, you oppose or go against an existing way of doing or thinking about something.
+
+conventional
+conventional: A conventional way of thinking or behaving is the one most commonly accepted by social groups.
+
+convergent
+convergent: Two things that are convergent are meeting or coming together at one point in time or space.
+
+cordial
+cordial: A cordial greeting is warm, friendly, and polite.
+
+credible
+credible: If you act in a credible fashion, you are easy to believe or trust.
+
+cynical
+cynical: A cynical person thinks that people in general are most often motivated by selfish concerns; therefore, they doubt, mistrust, and question what people do.
+
+deficit
+deficit: A deficit occurs when a person or government spends more money than has been received.
+
+demarcation
+demarcation: Demarcation is the process of setting boundaries or limits; it is also a line that provides a distinct separation between two things.
+
+denounce
+denounce: If you denounce people or actions, you criticize them severely in public because you feel strongly that they are wrong or evil.
+
+desolate
+desolate: A desolate area is unused, empty of life, deserted, and lonely.
+
+despicable
+despicable: If you say a person's actions are despicable, you think they are extremely unpleasant or nasty.
+
+deterrent
+deterrent: A deterrent keeps someone from doing something against you.
+
+discern
+discern: When you discern something, you notice, detect, or understand it, often after thinking about it carefully or studying it for some time.
+
+discrepancy
+discrepancy: When there is a discrepancy between two sets of data, there is a difference or disagreement among them—despite the fact that they should be the same.
+
+disentangle
+disentangle: When you disentangle a knot or a problem, you untie the knot or get yourself out of the problem.
+
+dispel
+dispel: When you dispel a thought from your mind, you cause it to go away or disappear; when you do the same to a crowd, you cause it to scatter into different directions.
+
+dissension
+dissension: Dissension is a disagreement or difference of opinion among a group of people that can cause conflict.
+
+distortion
+distortion: When something is subjected to distortion, it is twisted out of shape in some way.
+
+dubious
+dubious: If someone makes a dubious claim, there is a great deal of disbelief or doubt about it.
+
+emphatic
+emphatic: When you make an emphatic declaration, you are insistent and absolute about it.
+
+encompass
+encompass: When something encompasses something else, it includes all aspects of it or completely surrounds it.
+
+enthrall
+enthrall: If something enthralls you, it makes you so interested and excited that you give it all your attention.
+
+excise
+excise: When you excise something, you remove it by cutting it out.
+
+exemplify
+exemplify: One thing that exemplifies another serves as an example of it, illustrates it, or demonstrates it.
+
+fidelity
+fidelity: Fidelity towards something, such as a marriage or promise, is faithfulness or loyalty towards it.
+
+flaunt
+flaunt: When someone flaunts their good looks, they show them off or boast about them in a very proud and shameless way.
+
+fluctuate
+fluctuate: Things that fluctuate vary or change often, rising or falling seemingly at random.
+
+formative
+formative: Something formative shapes or influences the growth of something else.
+
+formulate
+formulate: When you formulate a plan of action, you carefully work it out or design it in great detail ahead of time.
+
+fortification
+fortification: A fortification is a structure or building that is used in defense against an invading army.
+
+fossilized
+fossilized: A soft material that becomes hardened into stone over time has become fossilized.
+
+fruitless
+fruitless: A fruitless effort at doing something does not bring about a successful result.
+
+genre
+genre: A genre is a category, type, or class of artistic work.
+
+granule
+granule: A granule is a small particle or tiny grain of something.
+
+gratification
+gratification: When you have a feeling of gratification, you experience satisfaction or pleasure about a job well done.
+
+gregarious
+gregarious: A gregarious person is friendly, highly social, and prefers being with people rather than being alone.
+
+homage
+homage: When you pay homage to another person, you show them great admiration or respect; you might even worship them.
+
+homogeneous
+homogeneous: The word homogeneous is used to describe a group that has members or parts which are similar or are all of the same type.
+
+hypocritical
+hypocritical: Someone who is hypocritical pretends to be a person they are not.
+
+illustrious
+illustrious: Someone who has had an illustrious professional career is celebrated and outstanding in their given field of expertise.
+
+imperative
+imperative: When it is imperative that something be done, it is absolutely necessary or very important that it be accomplished.
+
+imposition
+imposition: An imposition is giving someone an additional duty or extra work that is not welcomed by that person.
+
+impoverished
+impoverished: An impoverished person or nation is very poor and stricken by poverty.
+
+inaugural
+inaugural: An inaugural event celebrates the beginning of something, such as the term of a president or the beginning of a series of meetings.
+
+incarcerate
+incarcerate: If you incarcerate someone, you put them in prison or jail.
+
+inconclusive
+inconclusive: If the results of something are inconclusive, they are uncertain or provide no final answers.
+
+inference
+inference: An inference is a conclusion that is reached using available data.
+
+initiate
+initiate: To initiate something is to begin or start it.
+
+instigate
+instigate: When you instigate something, you start it or stir it up, usually for the purpose of causing trouble of some kind.
+
+interim
+interim: An interim position at a school or business is only temporary; it lasts until the position can be filled permanently.
+
+intricate
+intricate: An intricate design or problem can be both complex and filled with elaborate detail.
+
+jeopardy
+jeopardy: When you are in jeopardy, you are in danger or trouble of some kind.
 
 kinetic
 kinetic: Something kinetic is moving, active, and using energy.
@@ -616,21 +1066,6 @@ liquidate: To liquidate a business or company is to close it down and sell the t
 longevity
 longevity: Longevity is the life span of a person or object; it can also refer to a particularly long life.
 
-ludicrous
-ludicrous: If you describe something as ludicrous, you mean that it is extremely silly, stupid, or just plain ridiculous.
-
-You checked "I Know This" on Nov 20, 2022 EST. Uncheck to undo.
-
-IKT
-luminous
-luminous: When something is luminous, it is bright and glowing.
-
-lustrous
-lustrous: Something that is lustrous shines in a soft and gentle way by reflecting light.
-
-luxuriant
-luxuriant: Something luxuriant, such as plants or hair, is growing well and is very healthy.
-
 malevolent
 malevolent: A malevolent person or thing is evil due to deliberate attempts to cause harm.
 
@@ -649,11 +1084,11 @@ melancholy: If you are melancholy, you look and feel sad.
 memorandum
 memorandum: A memorandum is a short note that helps someone remember what they've done or have to do; it can also be a form of communication that gives out information.
 
+mercenary
+mercenary: A mercenary person is one whose sole interest is in earning money.
+
 metropolitan
 metropolitan: A metropolitan area contains a very large city.
-
-moderation
-moderation: When you behave with moderation, you live in a balanced and measured way; you do nothing to excess.
 
 monotonous
 monotonous: A monotonous activity is so repetitious that it quickly becomes boring and dull.
@@ -667,17 +1102,8 @@ morale: A person's morale is their current state of self-confidence, how they fe
 naive
 naive: If someone is naive, they are too trusting of others; they don't have enough experience in life to know whom to believe.
 
-neurotic
-neurotic: A neurotic person is too anxious or worried about events in everyday life.
-
-You checked "I Know This" on Mar 8, 2023 EST. Uncheck to undo.
-
-IKT
 nocturnal
 nocturnal: A nocturnal creature is only active during the night and rests during the day.
-
-nominal
-nominal: Nominal can refer to someone who is in charge in name only, or it can refer to a very small amount of something; both are related by their relative insignificance.
 
 norm
 norm: A social norm is the standard, model, or rule by which people conduct themselves.
@@ -688,17 +1114,8 @@ notorious: A notorious person is well-known by the public at large; they are usu
 novice
 novice: If you are a novice at an activity, you have just begun or started doing it.
 
-nullify
-nullify: To nullify something is to cancel or negate it.
-
-You checked "I Know This" on Jan 9, 2023 EST. Uncheck to undo.
-
-IKT
 nurture
 nurture: When you nurture someone, you feed and take care of them.
-
-objective
-objective: If someone is objective, they base their opinions on facts rather than personal feelings or beliefs.
 
 omnipotent
 omnipotent: An omnipotent being or entity is unlimited in its power.
@@ -706,23 +1123,20 @@ omnipotent: An omnipotent being or entity is unlimited in its power.
 omniscient
 omniscient: Someone who is omniscient seems to know absolutely everything.
 
-ornate
-ornate: An ornate object is heavily or excessively decorated with complicated shapes and patterns.
-
 parable
 parable: A parable is a short story that usually is told to illustrate a moral or lesson of some kind.
 
 paradox
 paradox: A paradox is a statement that appears to be self-contradictory or unrealistic but may surprisingly express a possible truth.
 
-paramount
-paramount: Something that is of paramount importance or significance is chief or supreme in those things.
-
 paraphrase
 paraphrase: When you paraphrase, you put into your own words what you have just read, usually in a shorter version.
 
-patriarch
-patriarch: A patriarch is a male leader of a family or tribe; a patriarch can also be a man who is the founder of a group or organization.
+patronize
+patronize: If someone patronizes you, they talk or behave in a way that seems friendly; nevertheless, they also act as if they were more intelligent or important than you are.
+
+pedigree
+pedigree: A pedigree is your list of ancestors or family tree; it can also be the lineage of a purebred animal.
 
 penance
 penance: Penance is an act of some kind to right a wrong, usually via some form of self-punishment.
@@ -733,44 +1147,20 @@ pensive: If you are pensive, you are deeply thoughtful, often in a sad and/or se
 perennial
 perennial: Something that is perennial lasts a very long time and is enduring.
 
-periphery
-periphery: The periphery of a place is its boundary or outer edge.
-
-pervasive
-pervasive: If something is pervasive, it appears to be everywhere.
-
 philanthropy
 philanthropy: Philanthropy is unselfish support in the form of donating money, work, or gifts to positive social purposes; philanthropy is also overall love for humans in general.
 
 piety
 piety: Piety is being devoted or showing loyalty towards something, especially a religion.
 
-pinnacle
-pinnacle: If someone reaches a pinnacle of something—such as a career or mountain—they have arrived at the highest point of it.
-
-placid
-placid: A placid scene or person is calm, quiet, and undisturbed.
-
 plight
 plight: If you are in a plight, you are in trouble of some kind or in a state of unfortunate circumstances.
-
-porous
-porous: A porous substance has many holes through which liquid can be absorbed, such as a sponge.
 
 posterity
 posterity: Your posterity are your children; they are also your future generations.
 
-preamble
-preamble: A preamble is an introduction to a formal document that explains the document's purpose.
-
-precarious
-precarious: A precarious situation or state can very quickly become dangerous without warning.
-
-You checked "I Know This" on Feb 22, 2023 EST. Uncheck to undo.
-
-IKT
-preconception
-preconception: A preconception is a conceived notion that you already have, usually in the form of a bias or prejudice of some kind.
+potency
+potency: Something's potency is how powerful or effective it is.
 
 predecessor
 predecessor: A predecessor comes before someone else in a job or is an ancestor of someone.
@@ -778,50 +1168,11 @@ predecessor: A predecessor comes before someone else in a job or is an ancestor 
 predicament
 predicament: If you are in a predicament, you are in a difficult situation or unpleasant mess that is hard to get out of.
 
-predominant
-predominant: Something predominant is the most important or the most common thing in a group.
+rationale
+rationale: A rationale is a reason or explanation for doing something.
 
-pretentious
-pretentious: If you are pretentious, you think you are really great in some way and let everyone know about it, despite the fact that it's not the case at all.
-
-You checked "I Know This" on Oct 16, 2022 EDT. Uncheck to undo.
-
-IKT
-primeval
-primeval: Something primeval is ancient or belonging to the original development of something.
-
-procure
-procure: When you procure something, you obtain or get it in some fashion.
-
-prophetic
-prophetic: Something or someone that is prophetic has the quality or ability to predict the future.
-
-propriety
-propriety: Propriety is behaving in a socially acceptable and appropriate way.
-
-protocol
-protocol: Protocol is the rules of conduct or proper behavior that a social situation demands.
-
-punctuate
-punctuate: If an activity is punctuated by something, it is interrupted or emphasized by it at intervals.
-
-quarantine
-quarantine: When people or animals are quarantined, they are put in isolation so that they will not spread disease.
-
-radical
-radical: A radical solution to a problem goes to the heart or root of it; a radical solution is most often an extreme solution to the problem.
-
-You checked "I Know This" on Jan 9, 2023 EST. Uncheck to undo.
-
-IKT
-ratification
-ratification: The ratification of a measure or agreement is its official approval or confirmation by all involved.
-
-ravenous
-ravenous: If you are ravenous, you are extremely hungry.
-
-referendum
-referendum: A referendum is a suggested measure or other concern that is brought before the people for a vote.
+rectify
+rectify: When you rectify something, you correct it or make it right once more.
 
 refrain
 refrain: If you refrain from doing something, you do not do it—even though you want to.
@@ -832,26 +1183,11 @@ regime: A regime is the system of government currently in power in a country; it
 reimburse
 reimburse: When you reimburse someone, you pay back the money that you borrowed from them, or you repay them for damages or losses they have suffered because of you.
 
-remedial
-remedial: A remedial action is intended to improve or correct something that is lacking in some way, such as one's education or health.
-
 reminiscent
 reminiscent: Something that is reminiscent of something else reminds you of it in some way.
 
 remnant
 remnant: The remnants of something are the small parts of it that are left after the main part has been used or destroyed.
-
-renovate
-renovate: When you renovate something, such as a home or other building, you modernize or make it like new again.
-
-repercussion
-repercussion: A repercussion of an act or event is the result or effect of it.
-
-replenish
-replenish: When you replenish something, you refill or restock it.
-
-repulsive
-repulsive: Something that is repulsive is offensive, highly unpleasant, or just plain disgusting.
 
 requisite
 requisite: If something is requisite for a purpose, it is needed, appropriate, or necessary for that specific purpose.
@@ -859,50 +1195,23 @@ requisite: If something is requisite for a purpose, it is needed, appropriate, o
 retaliate
 retaliate: When you retaliate, you get back at or get even with someone for something that they did to you.
 
-retort
-retort: When you give a retort to what someone has said, you reply in a quick and witty fashion.
-
 reversion
 reversion: A reversion is a turning back again to a previous state or condition.
 
-rhetoric
-rhetoric: Rhetoric is the skill or art of using language to persuade or influence people, especially language that sounds impressive but may not be sincere or honest.
-
-rubble
-rubble: Rubble is the debris, remains, or wreckage of something that has been ruined, such as a building or other structure.
-
-rudimentary
-rudimentary: Rudimentary skills and knowledge are basic or simple things that are learned early on in life.
-
-You checked "I Know This" on Feb 2, 2023 EST. Uncheck to undo.
-
-IKT
 rustic
 rustic: A rustic setting is rural or placed in the country.
 
-saga
-saga: A saga is a long series of events that is filled with adventure and heroic deeds.
-
-sanction
-sanction: A sanction is an official approval to do something; it may be a showing of support or acceptance for something, or it may officially support a punishment or restriction in response to an unacceptable action.
-
-sanctity
-sanctity: The sanctity of something is its holiness or sacred quality.
-
-seasoned
-seasoned: A seasoned professional has a great deal of experience in what they do.
+satire
+satire: Satire is a way of criticizing people or ideas in a humorous way by going beyond the truth; it is often used to make people see their faults.
 
 secular
 secular: Secular viewpoints are not religious or spiritual but pertain to worldly or material aspects of life.
 
-sedate
-sedate: If you are sedate, you are calm, unhurried, and unlikely to be disturbed by anything.
+senile
+senile: An aged person who is senile is less mentally aware than they were in the past; therefore, they tend to be confused and forgetful at times.
 
-You checked "I Know This" on Oct 23, 2022 EDT. Uncheck to undo.
-
-IKT
-sedentary
-sedentary: Someone who has a sedentary habit, job, or lifestyle spends a lot of time sitting down without moving or exercising often.
+serene
+serene: A serene place or situation is peaceful and calm.
 
 sinister
 sinister: Something sinister makes you feel that an evil, bad, or harmful thing is about to happen.
@@ -910,17 +1219,11 @@ sinister: Something sinister makes you feel that an evil, bad, or harmful thing 
 skeptic
 skeptic: A skeptic is a person who doubts popular claims or facts about things that other people believe to be true.
 
-sovereign
-sovereign: A sovereign nation rules itself, independent of all other nations.
-
-spatial
-spatial: The spatial aspect of a room or other area is the amount of space it has.
-
 squander
 squander: If you squander time, money, or other valuable resources, you use them wastefully and unwisely.
 
-stagnant
-stagnant: Something that is stagnant is not moving; therefore, it is not growing, progressing, or acting as it should.
+staid
+staid: If you are staid, you are set in your ways; consequently, you are settled, serious, law-abiding, conservative, and traditional—and perhaps even a tad dull.
 
 stature
 stature: A person's stature in society is their social standing; this level of importance is determined by their position in life or their character.
@@ -931,23 +1234,8 @@ statutory: Something statutory, such as the power given to a governor or preside
 stereotype
 stereotype: A stereotype is a customary way of thinking about a particular group of people that is narrow-minded and often faulty.
 
-stigma
-stigma: Something that has a stigma is not socially acceptable; therefore, it has a strong feeling of shame or disgrace attached to it.
-
-You checked "I Know This" on Mar 8, 2023 EST. Uncheck to undo.
-
-IKT
-strata
-strata: Strata are Earth's layers of rock or regions of the atmosphere; they can also be the different social, cultural, and economic levels of a society.
-
-strife
-strife: Strife is struggle or conflict that sometimes turns violent.
-
-stringent
-stringent: Stringent measures or rules are strict, severe, and controlled in a very tight fashion.
-
-stupendous
-stupendous: A stupendous event or accomplishment is amazing, wonderful, or spectacular.
+subdue
+subdue: When you subdue something, such as an enemy or emotions, you defeat or bring them under control.
 
 subterranean
 subterranean: A subterranean place is underground or below the earth, often hidden or secret.
@@ -955,8 +1243,11 @@ subterranean: A subterranean place is underground or below the earth, often hidd
 subversive
 subversive: A subversive act destroys or does great harm to a government or other institution.
 
-succumb
-succumb: When you succumb to something, you give in to, yield to, or die from it.
+sumptuous
+sumptuous: Something that is sumptuous is impressive, grand, and very expensive.
+
+superlative
+superlative: A superlative deed or act is excellent, outstanding, or the best of its kind.
 
 supplement
 supplement: When you supplement, you add on some extra to something to make up for a lack in it.
@@ -964,39 +1255,15 @@ supplement: When you supplement, you add on some extra to something to make up f
 surge
 surge: When something surges, it rapidly increases or suddenly rises.
 
-susceptible
-susceptible: If you are susceptible to something, such as a disease or emotion, you are likely or inclined to be affected by it.
+tenacious
+tenacious: A tenacious person does not quit until they finish what they've started.
 
-synthesis
-synthesis: A synthesis is the combination or blend of two or more things to form a new whole.
-
-taint
-taint: To taint is to give an undesirable quality that damages a person's reputation or otherwise spoils something.
-
-You checked "I Know This" on Dec 4, 2022 EST. Uncheck to undo.
-
-IKT
-tangible
-tangible: Something that is tangible is able to be touched and thus is considered real.
-
-temperamental
-temperamental: If you are temperamental, you tend to become easily upset and experience unpredictable mood swings.
-
-You checked "I Know This" on Oct 23, 2022 EDT. Uncheck to undo.
-
-IKT
 tentative
 tentative: To be tentative is to be hesitant or uncertain about something; an agreement or decision of this kind is likely to have changes before it reaches its final form.
 
 terrestrial
 terrestrial: The word terrestrial refers to living or growing on land; it can also refer to planet Earth as a whole in comparison with other planets.
 
-topography
-topography: The topography of an area is how the land lies, that is, if it is flat, rolling, mountainous, etc.
-
-You checked "I Know This" on Oct 16, 2022 EDT. Uncheck to undo.
-
-IKT
 torrential
 torrential: A torrential downpour of rain is very heavy and intense.
 
@@ -1015,9 +1282,6 @@ trivial: Something trivial is of little value or is not important.
 turmoil
 turmoil: When you experience turmoil, there is great confusion, disturbance, instability, and disorder in your life.
 
-unanimous
-unanimous: All people involved in a unanimous decision agree or are united in their opinion about something.
-
 uncanny
 uncanny: Something uncanny is very strange, unnatural, or highly unusual.
 
@@ -1030,53 +1294,29 @@ unison: Doing something in unison is doing it all together at one time.
 unparalleled
 unparalleled: An unparalleled accomplishment has not been equaled by anyone or cannot be compared to anything that anyone else has ever done.
 
-unprecedented
-unprecedented: Something unprecedented has never occurred; therefore, it is unusual, original, or new.
-
 unquenchable
 unquenchable: An unquenchable desire or thirst cannot be satisfied or gotten rid of.
 
 unrelenting
 unrelenting: If you are unrelenting in your desire to do something, you stop at nothing until you've done it.
 
-unscathed
-unscathed: To come out of something unscathed is to come out of it uninjured.
+unrestrained
+unrestrained: Someone who is unrestrained is free to do as they please; they are not controlled by anyone but themselves, which can lead to excessive behavior.
 
-unwarranted
-unwarranted: An unwarranted decision cannot be justified because there is no evidence to back it up; therefore, it is needless and uncalled-for.
+unsightly
+unsightly: An unsightly person presents an ugly, unattractive, or disagreeable face to the world.
 
-unwieldy
-unwieldy: Something that is unwieldy is hard or awkward to handle because of the way that it is shaped.
+usurp
+usurp: When you usurp someone else's power, position, or role, you take it from them although you do not have the right to do so.
 
 validate
 validate: When you validate something, you confirm that it is sound, true, legal, or worthwhile.
 
-veracity
-veracity: The veracity of something is its truthfulness.
-
-verbatim
-verbatim: If you repeat something verbatim, you use the same words that were spoken or written.
-
-veritable
-veritable: Something that is veritable is authentic, actual, genuine, or without doubt.
-
-vibrant
-vibrant: A vibrant person is lively and full of energy in a way that is exciting and attractive.
+versatile
+versatile: A versatile person is skillful at doing many different things; likewise, a tool with this quality can perform numerous tasks.
 
 vile
 vile: Something vile is evil, very unpleasant, horrible, or extremely bad.
 
-vivacious
-vivacious: If someone is described as vivacious, they are lively and have a happy, lighthearted manner.
-
-vogue
-vogue: If something, such as clothing, is in vogue, it is currently in fashion or is one of the hottest new trends; hence, it is very popular.
-
-voracious
-voracious: A voracious person has a strong desire to want a lot of something, especially food.
-
-wary
-wary: If you are being wary about a situation, you are being careful, cautious, or on your guard because you are concerned about something.
-
-wholesome
-wholesome: The adjective wholesome can refer to something that is good for the health of your body and also for your moral health.
+vintage
+vintage: Something vintage is the best of its kind and of excellent quality; it is often of a past time and is considered a classic example of its type.
