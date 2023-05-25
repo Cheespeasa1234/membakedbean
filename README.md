@@ -18,13 +18,4 @@ Run Membaked in the terminal from the directory of this project
 
 Enter a membean training session
 
-Wait for a word typing question
-![Word typing question](https://github.com/Cheespeasa1234/membaked/blob/695fa847e45597f3cd8d8f25b5ba0662ea3dbfc9/img_for_readme/mbb4.jpg?raw=true)
-
-Press "Another hint"
-![Another hint button highlighted](https://github.com/Cheespeasa1234/membaked/blob/695fa847e45597f3cd8d8f25b5ba0662ea3dbfc9/img_for_readme/mbb5.jpg?raw=true)
-
-Paste the two letters into the terminal
-![First two letters: di newline Best guess: dise newline Again? (y/n) ](https://github.com/Cheespeasa1234/membaked/blob/695fa847e45597f3cd8d8f25b5ba0662ea3dbfc9/img_for_readme/mbb7.png)
-
 ## PROFIT!
