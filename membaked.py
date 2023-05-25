@@ -24,15 +24,15 @@ def guess(beginning):
     return subs
 
 inp = input("mbb$> ")
-while inp != "qwt":
+while inp != "quit" and inp != "exit":
     args = inp.split(" ")
     args = args[1:len(args)]
-    if inp.startswith("gbw"): # Guess By Word
+    if inp.startswith("guessfl "): # Guess By Word
         best = sorted(guess(args[0]).items(), key=lambda x:x[1])
         best.reverse()
         for (k,v) in best:
             print(f"{k}: {v}")
-    elif inp.startswith("ext"): # extend the word
+    elif inp.startswith("guess "): # extend the word
         out = ""
         for word in words.keys():
             if word.startswith(args[0]):
@@ -40,12 +40,12 @@ while inp != "qwt":
         if out == "":
             out = "No matches."
         print(out)
-    elif inp.startswith("def"):
+    elif inp.startswith("define "):
         if args[0] in words:
             print(words[args[0]])
         else:
             print("Not a membean word. You should modify it to include this word if this is a mistake.")
-    elif inp.startswith("gbl"): # Guess By Letters
+    elif inp.startswith("guesstl "): # Guess By Letters
         best = guess(args[0]).keys()
         filtrs = {}
         scltrs = {}
@@ -64,23 +64,27 @@ while inp != "qwt":
         key = lambda x:x[1]
         print(sorted(filtrs.items(), key=key))
         print(sorted(scltrs.items(), key=key))
-    elif inp.startswith("trm"):
-        inp = args[0]
-        out = ""
-        for word in words:
-            if str(word).startswith(inp) or str(word).endswith(inp):
-                out += word + "\n"
-
-        if out == "":
-            print("No matches found.")
+    elif inp.startswith("trim "):
+        matches = []
+        wordkeys = words.keys()
+        wordtotrim = args[0]
+        for word in wordkeys:
+            if wordtotrim.startswith(word) or wordtotrim.endswith(word):
+                matches.append(word)
+        
+        if len(matches) == 0:
+            print("No matches.")
         else:
-            print("Matches:\n" + out)
-    elif inp.startswith("hlp"): # help
-        print("qwt       : quit program")
-        print("gbw <arg> : guess by most common first four letters.")
-        print("gbl <arg> : guess most likely two letters to go next.")
-        print("def <arg> : define a word, if its in the dict")
-        print("ext <arg> : extend any set of letters to display any matching words")
-        print("hlp       : display this menu")
-        print("trm <arg> : trims the word to remove suffixes")
+            print("Matches found:")
+            for word in matches:
+                print(f"{word}")
+    elif inp.startswith("help "): # help
+        print("quit      : quit program")
+        print("exit      : quit program")
+        print("guessfl <arg> : guess by most common first four letters.")
+        print("guesstl <arg> : guess most likely two letters to go next.")
+        print("define <arg> : define a word, if its in the dict")
+        print("guess <arg> : extend any set of letters to display any matching words")
+        print("help       : display this menu")
+        print("trim <arg> : trims the word to remove suffixes")
     inp = input("mbb$> ")
