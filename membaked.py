@@ -33,18 +33,22 @@ while inp != "quit" and inp != "exit":
         for (k,v) in best:
             print(f"{k}: {v}")
     elif inp.startswith("guess "): # extend the word
+        length = -1;
+        if len(args) > 1 and args[1]:
+            length = int(args[1])
         out = ""
         for word in words.keys():
-            if word.startswith(args[0]):
+            if word.startswith(args[0]) and (length == -1 or len(word) == length):
                 out += word + "\n"
         if out == "":
             out = "No matches."
         print(out)
     elif inp.startswith("define "):
-        if args[0] in words:
-            print(words[args[0]])
-        else:
-            print("Not a membean word. You should modify it to include this word if this is a mistake.")
+        for arg in args:
+            if arg in words:
+                print(words[arg])
+            else:
+                print("Not a membean word. You should modify it to include this word if this is a mistake.")
     elif inp.startswith("guesstl "): # Guess By Letters
         best = guess(args[0]).keys()
         filtrs = {}
@@ -78,13 +82,13 @@ while inp != "quit" and inp != "exit":
             print("Matches found:")
             for word in matches:
                 print(f"{word}")
-    elif inp.startswith("help "): # help
+    elif inp.startswith("help"): # help
         print("quit      : quit program")
         print("exit      : quit program")
         print("guessfl <arg> : guess by most common first four letters.")
         print("guesstl <arg> : guess most likely two letters to go next.")
-        print("define <arg> : define a word, if its in the dict")
-        print("guess <arg> : extend any set of letters to display any matching words")
+        print("define <arg(s)> : define a word, if its in the dict")
+        print("guess <arg> <?len> : extend any set of letters to display any matching words")
         print("help       : display this menu")
         print("trim <arg> : trims the word to remove suffixes")
     inp = input("mbb$> ")
